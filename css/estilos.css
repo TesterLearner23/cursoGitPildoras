@@ -4,3 +4,6 @@ body{
    color: antiquewhite;
 }
 
+#main-title:hover{
+   color: chartreuse;
+}
