@@ -1,4 +1,4 @@
-function overSubtitle(){
+function overSubtitle(){  // Este es un comentario desde el editor de GItHub
    let element = document.getElementById("main-subtitle");
    element.setAttribute("style","color:cyan");
 }
